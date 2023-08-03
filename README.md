@@ -1,6 +1,6 @@
 
 <h1 align="center">🖖 Flugelo</h1>  
-<h3 align="center">Olá! Me chamo Flugel e sou um desenvolvedor Fullstack com experiência em Java e na API Spigot. Gosto de criar soluções inovadoras e colaborar em projetos desafiadores.</h3>  
+<h3 align="center">Olá! Me chamo Flugel e sou um desenvolvedor Fullstack com experiência em Java e Bd Mysql. Gosto de criar soluções inovadoras e colaborar em projetos desafiadores.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flugelo&label=Profile%20views&color=0e75b6&style=flat" alt="flugelo" /> </p>  
   
