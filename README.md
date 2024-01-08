@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flugelo&label=Profile%20views&color=0e75b6&style=flat" alt="flugelo" /> </p>  
   
   
-- 🔭 I’m currently working on [MCSPlugin](https://github.com/Flugelo/mcsoplugin)  
+- 🔭 I’m currently working on [Py-wan]([https://github.com/Flugelo/mcsoplugin](https://github.com/Flugelo/pywan-tcc))  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
